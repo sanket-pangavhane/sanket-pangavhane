@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @sanket-pangavhane
-- 👀 I’m interested in ...Software Development ,Data Science and GenAI. 
-- 🌱 I’m currently learning ...Data Structures and Algorithms ,Data  Science  , GenAI.
-- 💞️ I’m looking to collaborate on ...Python , C++ and JavaScript.
-- 📫 How to reach me ...Linkedin -- https://www.linkedin.com/in/sanket-pangavhane-a2b54321
-- 😄 Pronouns: ...he/him
-
+👋 Hi, I’m Sanket Pangavhane  
+💻 Software Engineer  
+🔬 Domain: Generative AI | Data Science | Software Development  
+🌱 Currently sharpening: Advanced AI, and scalable systems  
+🤝 Open to collaborate on: Python | C++ | JavaScript | AI Projects  
+📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/sanket-pangavhane)  
+😄 Pronouns: He/Him
